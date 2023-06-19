@@ -1,27 +1,2 @@
 ﻿  Main.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xhash(936,35): error C2675: unary '++': '_Iter' does not define this operator or a conversion to a type acceptable to the predefined operator
-          with
-          [
-              _Iter=std::string
-          ]
-C:\Dev\Small Projects\The-Small-Project-Repo\Library Management System\Main.cpp(22): message : see reference to function template instantiation 'void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<std::string>(_Iter,_Iter)' being compiled
-          with
-          [
-              _Kty=std::string,
-              _Ty=std::string,
-              _Hasher=std::hash<std::string>,
-              _Keyeq=std::equal_to<std::string>,
-              _Alloc=std::allocator<std::pair<const std::string,std::string>>,
-              _Iter=std::string
-          ]
-C:\Dev\Small Projects\The-Small-Project-Repo\Library Management System\Main.cpp(22): message : see reference to function template instantiation 'void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<std::string>(_Iter,_Iter)' being compiled
-          with
-          [
-              _Kty=std::string,
-              _Ty=std::string,
-              _Hasher=std::hash<std::string>,
-              _Keyeq=std::equal_to<std::string>,
-              _Alloc=std::allocator<std::pair<const std::string,std::string>>,
-              _Iter=std::string
-          ]
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xhash(937,21): error C2100: illegal indirection
+  Library Management System.vcxproj -> C:\Dev\Small Projects\The-Small-Project-Repo\Library Management System\x64\Debug\Library Management System.exe
